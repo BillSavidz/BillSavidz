@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillSavidz
 - 👀 I’m interested in physics and data, primarily.
-- 🌱 I’m currently learning Rust and data analytics.
+- 🌱 I’m currently learning Rust and data analytics (never really progressed with Rust, lol. I try to not put it on my portfolio)
 - 💞️ I’m looking to collaborate on things...?
 - 📫 How to reach me: You already have :)
 
